@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ericocneto&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -43,7 +43,7 @@ class EricoNeto {
   }
 }
 
-const myStack = {
+ myStack = {
   frontend: ["React", "Next.js", "Vue"],
   backend: ["Node.js", "NestJS", "Express"],
   languages: ["TypeScript", "JavaScript", "Rust", "Go"],
