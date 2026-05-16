@@ -41,7 +41,6 @@ class EricoNeto {
   philosophy() {
     return "Performance, simplicity and competitive UX."
   }
-}
 
  myStack = {
   frontend: ["React", "Next.js", "Vue"],
@@ -51,6 +50,9 @@ class EricoNeto {
   styling: ["TailwindCSS", "Sass"],
   tools: ["Docker", "Electron", "Figma"]
 }
+}
+
+
 ```
 <div align="center">
 
