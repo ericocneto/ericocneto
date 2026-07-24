@@ -56,6 +56,6 @@ class EricoNeto {
 ```
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,postgres,mysql,docker,electron,tailwind,sass,rust,golang,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,nuxt,nodejs,nestjs,express,postgres,mysql,docker,electron,tailwind,sass,rust,golang,figma&perline=9)](https://skillicons.dev)
 
 </div>
